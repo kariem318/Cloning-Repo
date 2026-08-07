@@ -1,2 +1,3 @@
 Hi Boi in GitHub , Clonig From GitHub
 Second Commit , Line In This File
+Third Line , BLA BLA BLA IN FileCloning.txt
